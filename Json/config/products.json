@@ -1,0 +1,28 @@
+{
+    "name": "products",
+    "title": "",
+    "type": "table",
+    "columndFields": [
+        {
+            "columnName": "productName",
+            "columnDisplayName": "Product Name",
+            "isVisble": true,
+            "type": "string"
+        }, {
+            "columnName": "stockCount",
+            "columnDisplayName": "Stock Count",
+            "isVisble": true,
+            "type": "number"
+        }, {
+            "columnName": "manufacturer",
+            "columnDisplayName": "Manufacturer",
+            "isVisble": true,
+            "type": "string"
+        }, {
+            "columnName": "description",
+            "columnDisplayName": "Product Description",
+            "isVisble": true,
+            "type": "string"
+        }
+    ]
+}

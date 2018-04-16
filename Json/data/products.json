@@ -1,0 +1,36 @@
+[{
+    "productName": "Product1",
+    "stockCount": "54",
+    "manufacturer": "Manufacturer1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices rhoncus tellus nec rutrum. In hac habitasse platea dictumst. Suspendisse dapibus efficitur justo, at commodo."
+}, {
+    "productName": "Product2",
+    "stockCount": "63",
+    "manufacturer": "Manufacturer1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices rhoncus tellus nec rutrum. In hac habitasse platea dictumst. Suspendisse dapibus efficitur justo, at commodo."
+}, {
+    "productName": "Product3",
+    "stockCount": "54",
+    "manufacturer": "Manufacturer1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices rhoncus tellus nec rutrum. In hac habitasse platea dictumst. Suspendisse dapibus efficitur justo, at commodo."
+}, {
+    "productName": "Product4",
+    "stockCount": "500",
+    "manufacturer": "Manufacturer2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices rhoncus tellus nec rutrum. In hac habitasse platea dictumst. Suspendisse dapibus efficitur justo, at commodo."
+}, {
+    "productName": "Product5",
+    "stockCount": "3",
+    "manufacturer": "Manufacturer2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices rhoncus tellus nec rutrum. In hac habitasse platea dictumst. Suspendisse dapibus efficitur justo, at commodo."
+}, {
+    "productName": "Product6",
+    "stockCount": "54",
+    "manufacturer": "Manufacturer2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices rhoncus tellus nec rutrum. In hac habitasse platea dictumst. Suspendisse dapibus efficitur justo, at commodo."
+}, {
+    "productName": "Product7",
+    "stockCount": "0",
+    "manufacturer": "Manufacturer2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices rhoncus tellus nec rutrum. In hac habitasse platea dictumst. Suspendisse dapibus efficitur justo, at commodo."
+}]

@@ -1,0 +1,13 @@
+{
+    "name": "mainview",
+    "menu": [
+        {
+            "name": "users",
+            "displayName": "Users"
+        }, {
+            "name": "products",
+            "displayName": "Products"
+        }
+    ],
+    "content": "<div>Sample content</div>"
+}

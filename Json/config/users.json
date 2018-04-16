@@ -1,0 +1,28 @@
+{
+    "name": "user",
+    "title": "Users",
+    "type": "card",
+    "columndFields": [
+        {
+            "columnName": "displayImage",
+            "columnDisplayName": "Display image",
+            "isVisble": true,
+            "type": "image"
+        }, {
+            "columnName": "fullname",
+            "columnDisplayName": "Full name",
+            "isVisble": true,
+            "type": "string"
+        }, {
+            "columnName": "role",
+            "columnDisplayName": "Role",
+            "isVisble": true,
+            "type": "string"
+        }, {
+            "columnName": "bio",
+            "columnDisplayName": "Bio",
+            "isVisble": true,
+            "type": "string"
+        }
+    ]
+}
